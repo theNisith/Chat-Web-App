@@ -9,6 +9,14 @@ A real-time chat application built with Spring Boot and WebSockets that allows u
 - User identification with custom names
 - Automatic scrolling to latest messages
 
+## Screenshots
+
+![Chat Interface](images/chat-interface.png)
+*The main chat interface where users can send and receive messages*
+
+![Active Conversation](images/active-conversation.png)
+*Example of an active conversation between users*
+
 ## Technology Stack
 
 - **Backend**:
